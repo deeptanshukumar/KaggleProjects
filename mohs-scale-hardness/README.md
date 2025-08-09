@@ -1,0 +1,2 @@
+This is a project done for the Nexus PESU recruitments, [Predicting Mohs Hardness - Nexus Recruitment](https://www.kaggle.com/competitions/round-2-nexus-recruitment)
+Goal: The dataset given contains various properties of minerals. The Goal is to utilize regression to predict the hardness of the mineral on the Mohs scale of hardness based on the properties given to you.
